@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/kommi_sampath" target="blank"><img src="https://img.shields.io/twitter/follow/kommi_sampath?logo=twitter&style=for-the-badge" alt="kommi_sampath" /></a> </p>
 
-- 🔭 I’m currently working on **Developing Generative AI solutions using LLMs for text generation, summarization, and intelligent automation, along with real-time ML model deployment on Azure.**
+- 🔭 I’m currently pursuing my Master’s in Data Science at the University of Leicester and working on developing machine learning models and AI-driven solutions..**
 
-- 🌱 I’m currently learning **Generative AI, LLMs, and advanced deep learning techniques.**
+- 🌱 I’m currently learning and improving my skills in:
+     1. Data Science and Machine Learning
+     2. Generative AI and Large Language Models (LLMs)
+     3. Deep Learning and Natural Language Processing (NLP)
+     4. Cloud-based ML deployment.**
 
-- 👯 I’m looking to collaborate on **AI/ML projects using Generative AI, NLP, or computer vision. Open-source contributions and Azure-based data science solutions.**
-
-- 🤝 I’m looking for help with **Deploying LLMs and AI models on Azure and Docker. Improving deep learning model performance and scalability.**
+- 🤝 🤝 I’m currently seeking Data Science / Machine Learning internship opportunities where I can apply my knowledge in data analysis, machine learning, and AI-driven solutions to solve real-world problems.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kommisampath](https://github.com/kommisampath)
 
@@ -19,17 +21,14 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, and Generative AI solutions. Model evaluation, Azure ML, and data visualization techniques.**
 
-- 📫 How to reach me **sampathkommi4101@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/118QizYzDpPElgtqGRlu2sMl6d_AXXoB2/view?usp=drive_link](https://drive.google.com/file/d/118QizYzDpPElgtqGRlu2sMl6d_AXXoB2/view?usp=drive_link)
-
+- 📫 How to reach me **sampathaseervadamuk@gmail.com**
+- 
 - ⚡ Fun fact **I talk to AI models daily—and sometimes they talk back better than humans!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kommi_sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kommi_sampath" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sampathkommi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sampathkommi/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/urstrulysampathk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/urstrulysampathk" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.urstrulysampath._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.urstrulysampath._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sampathaseervad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sampathaseervad1" height="30" width="40" /></a>
 </p>
