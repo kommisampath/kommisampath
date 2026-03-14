@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/kommi_sampath" target="blank"><img src="https://img.shields.io/twitter/follow/kommi_sampath?logo=twitter&style=for-the-badge" alt="kommi_sampath" /></a> </p>
 
-- 🔭 I’m currently pursuing my Master’s in Data Science at the University of Leicester and working on developing machine learning models and AI-driven solutions..**
+- 🔭 I’m currently pursuing my Master’s in Data Science at the University of Leicester and working on developing machine learning models and AI-driven solutions.
 
 - 🌱 I’m currently learning and improving my skills in:
      1. Data Science and Machine Learning
      2. Generative AI and Large Language Models (LLMs)
      3. Deep Learning and Natural Language Processing (NLP)
-     4. Cloud-based ML deployment.**
+     4. Cloud-based ML deployment.
 
-- 🤝 🤝 I’m currently seeking Data Science / Machine Learning internship opportunities where I can apply my knowledge in data analysis, machine learning, and AI-driven solutions to solve real-world problems.**
+- 🤝 🤝 I’m currently seeking Data Science / Machine Learning internship opportunities where I can apply my knowledge in data analysis, machine learning, and AI-driven solutions to solve real-world problems.
 
 - 👨‍💻 All of my projects are available at [https://github.com/kommisampath](https://github.com/kommisampath)
 
