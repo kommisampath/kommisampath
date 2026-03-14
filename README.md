@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampath Kommi</h1>
-<h3 align="center">Passionate Data Scientist & AI Enthusiast</h3>
+<h3 align="center">MSc Data Science Student at University of Leicester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kommisampath&label=Profile%20views&color=0e75b6&style=flat" alt="kommisampath" /> </p>
 
